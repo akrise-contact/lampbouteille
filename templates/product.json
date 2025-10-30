@@ -11,32 +11,6 @@
   "sections": {
     "image_with_text_overlay_ijagcU": {
       "type": "image-with-text-overlay",
-      "blocks": {
-        "subheading_9Crcdi": {
-          "type": "subheading",
-          "settings": {
-            "text": "Subheading"
-          }
-        },
-        "heading_ebmXiQ": {
-          "type": "heading",
-          "settings": {
-            "text": "Image with text overlay",
-            "heading_tag": "h1"
-          }
-        },
-        "richtext_Tnfkmk": {
-          "type": "richtext",
-          "settings": {
-            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>"
-          }
-        }
-      },
-      "block_order": [
-        "subheading_9Crcdi",
-        "heading_ebmXiQ",
-        "richtext_Tnfkmk"
-      ],
       "name": "Image with text overlay",
       "settings": {
         "full_width": true,
@@ -82,30 +56,22 @@
             "logo_width": 120,
             "link": ""
           }
-        },
-        "logo_wtiUNf": {
-          "type": "logo",
-          "settings": {
-            "logo_width": 120,
-            "link": ""
-          }
         }
       },
       "block_order": [
         "logo_zUK37Y",
         "logo_fwzAaR",
         "logo_L8DybD",
-        "logo_kTmBtW",
-        "logo_wtiUNf"
+        "logo_kTmBtW"
       ],
       "name": "Logo list",
       "settings": {
         "full_width": true,
         "stack_mobile": true,
-        "title": "Logo list",
+        "title": "Ils parlent de nous",
         "content": "",
-        "text_alignment": "start",
-        "items_per_row": 5,
+        "text_alignment": "center",
+        "items_per_row": 4,
         "background": "",
         "background_gradient": "",
         "text_color": "",
@@ -118,32 +84,18 @@
     "rich_text_bDHhNm": {
       "type": "rich-text",
       "blocks": {
-        "subheading_yU6866": {
-          "type": "subheading",
-          "settings": {
-            "text": "Subheading"
-          }
-        },
         "heading_dQ7zXX": {
           "type": "heading",
           "settings": {
-            "text": "Heading",
-            "heading_tag": "h1",
+            "text": "Pourquoi chosir Botlamp ?",
+            "heading_tag": "h2",
             "text_color": "",
             "gradient": ""
-          }
-        },
-        "richtext_R97eWy": {
-          "type": "richtext",
-          "settings": {
-            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>"
           }
         }
       },
       "block_order": [
-        "subheading_yU6866",
-        "heading_dQ7zXX",
-        "richtext_R97eWy"
+        "heading_dQ7zXX"
       ],
       "name": "Rich text",
       "settings": {
