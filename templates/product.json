@@ -568,7 +568,7 @@
           "settings": {
             "only_photos": false,
             "aggregated": false,
-            "limit": 6,
+            "limit": 7,
             "hide_thumbnails": false,
             "maxwidth": 1080,
             "is_sample": true
