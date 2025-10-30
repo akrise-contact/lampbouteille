@@ -434,15 +434,31 @@
         "item_JnzXcz": {
           "type": "item",
           "settings": {
-            "title": "Any question?",
-            "content": "<p>You can contact us through our contact page! We will be happy to assist you.</p>"
+            "title": "Proposez-vous des ventes en gros ?",
+            "content": "<p>Oui, nous proposons des ventes en gros pour les professionnels, concept stores, boutiques de décoration, événements ou cadeaux d'entreprise. Si vous souhaitez distribuer nos lampes ou passer une commande en grande quantité, contactez nous à cette adresse email: contact@gamlight.fr</p>"
+          }
+        },
+        "item_LcQmgf": {
+          "type": "item",
+          "settings": {
+            "title": "Satisfaction client & livraison",
+            "content": "<p>Votre satisfaction est notre priorité. C’est pourquoi nous offrons une garantie satisfait ou remboursé de 14 jours sur toutes les commandes. Contactez notre équipe via la page Contact si besoin.</p><p>Nous expédions dans toute l’Europe, avec des délais de livraison généralement compris entre 6 et 9 jours ouvrés selon votre localisation.</p>"
+          }
+        },
+        "item_JHfF7j": {
+          "type": "item",
+          "settings": {
+            "title": "Comment puis-je vous contacter ?",
+            "content": "<p>Vous pouvez nous écrire à l’adresse suivante :<a><strong>contact@gamlight.fr</strong></a></p><p>Nous faisons de notre mieux pour vous répondre sous 48 heures.</p>"
           }
         }
       },
       "block_order": [
         "item_jtbzxh",
         "item_E9mThX",
-        "item_JnzXcz"
+        "item_JnzXcz",
+        "item_LcQmgf",
+        "item_JHfF7j"
       ],
       "name": "FAQ",
       "settings": {
