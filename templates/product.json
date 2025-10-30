@@ -420,15 +420,15 @@
         "item_jtbzxh": {
           "type": "item",
           "settings": {
-            "title": "Do you ship overseas?",
-            "content": "<p>Yes, we ship all over the world. Shipping costs will apply, and will be added at checkout. We run discounts and promotions all year, so stay tuned for exclusive deals.</p>"
+            "title": "La lampe s’adapte-t-elle à toutes les bouteilles ?",
+            "content": "<p>Absolument ! La Botlamp dispose d’un embout à ventouse, ce qui lui permet de s’adapter parfaitement et en toute sécurité à toutes les bouteilles.</p>"
           }
         },
         "item_E9mThX": {
           "type": "item",
           "settings": {
-            "title": "How long will it take to get my orders?",
-            "content": "<p>It depends on where you are. Orders processed here will take 5-7 business days to arrive. Overseas deliveries can take anywhere from 7-16 days. Delivery details will be provided in your confirmation email.</p>"
+            "title": "La lampe Botlamp est-elle waterproof ?",
+            "content": "<p>Oui, la Botlamp est totalement waterproof. Vous pouvez la laisser sur une table en extérieur, dans le jardin ou sur le balcon en été, sans aucune inquiétude.</p>"
           }
         },
         "item_JnzXcz": {
