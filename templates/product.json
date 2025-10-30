@@ -252,6 +252,14 @@
             "collapse_content": false
           }
         },
+        "image_3hmLMN": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/sdvsdgv.png",
+            "alignment": "center",
+            "max_width": 500
+          }
+        },
         "kaching_bundles_app_block_CtT3CN": {
           "type": "shopify://apps/kaching-bundles/blocks/app-block/6c637362-a106-4a32-94ac-94dcfd68cdb8",
           "settings": {
@@ -274,6 +282,7 @@
         "title",
         "liquid_jTzW4A",
         "description_VJa7LJ",
+        "image_3hmLMN",
         "kaching_bundles_app_block_CtT3CN",
         "buy_buttons"
       ],
