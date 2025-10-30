@@ -172,10 +172,10 @@
         "full_width": true,
         "stack_on_mobile": false,
         "gap": "medium",
-        "text_alignment": "start",
-        "subheading": "About",
-        "title": "Featured content",
-        "content": "<p>Organize content into multiple columns to share useful information to your customers about your products, values...</p>",
+        "text_alignment": "center",
+        "subheading": "",
+        "title": "Nos clients en parle le mieux",
+        "content": "",
         "background": "",
         "background_gradient": "",
         "text_color": ""
@@ -278,16 +278,16 @@
         "tab_zmGkxx": {
           "type": "tab",
           "settings": {
-            "title": "Tab 1",
-            "content": "<p>Use this text to share information about your brand with your customers.</p>",
+            "title": "COMMENT ÇA FONCTIONNE ?",
+            "content": "<ol><li><strong>Choisissez votre bouteille préférée</strong> : Sélectionnez votre bouteille favorite pour l’utiliser avec la lampe.</li><li><strong>Rechargez la lampe</strong> : Rechargez-la complètement avant la première utilisation.</li><li><strong>Installez la lampe</strong> : Insérez la lampe dans la bouteille et assurez-vous qu’elle soit bien stable.</li><li><strong>Profitez</strong> : Choisissez votre ambiance lumineuse et laissez les regards se tourner vers votre lampe !</li></ol>",
             "page": ""
           }
         },
         "tab_dMrtrb": {
           "type": "tab",
           "settings": {
-            "title": "Tab 2",
-            "content": "<p>Describe a product, share announcements, or welcome customers to your store.</p>",
+            "title": "QUE CONTIENT LE COLIS ?",
+            "content": "<ul><li>1x Lampe BOTLAMP sans fil pour bouteille</li><li>1x Câble USB-C</li><li>Guide d’installation</li></ul>",
             "page": ""
           }
         },
@@ -309,8 +309,8 @@
       "settings": {
         "full_width": true,
         "content_size": "medium",
-        "subheading": "Subheading",
-        "title": "Heading",
+        "subheading": "",
+        "title": "",
         "text_alignment": "center",
         "first_tab_open": false,
         "background": "",
