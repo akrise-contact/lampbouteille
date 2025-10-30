@@ -298,12 +298,21 @@
             "content": "<ul><li>Dimensions : 10,5 x 13,15 cm</li><li>Matériaux : Fer & Aluminium</li><li>Éclairage : LED</li><li>Température de couleur : 3000K</li><li>Batterie : Lithium 2000 mAh</li><li>Autonomie : jusqu’à 20 heures en mode lumière faible</li><li>Tension d’entrée : DC 5V</li><li>Durée de vie : 50 000 heures+</li><li>Alimentation : 2,5W, 5V, 2A</li></ul>",
             "page": ""
           }
+        },
+        "tab_AAfWXP": {
+          "type": "tab",
+          "settings": {
+            "title": "DÉLAIS DE LIVRAISON",
+            "content": "<p>Notre délai de livraison moyen est compris entre 6 et 9 jours ouvrés.</p>",
+            "page": ""
+          }
         }
       },
       "block_order": [
         "tab_zmGkxx",
         "tab_dMrtrb",
-        "tab_xVR3iy"
+        "tab_xVR3iy",
+        "tab_AAfWXP"
       ],
       "name": "Tabs",
       "settings": {
