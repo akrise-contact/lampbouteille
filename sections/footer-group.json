@@ -11,23 +11,6 @@
   "type": "footer",
   "name": "Footer group",
   "sections": {
-    "image_with_text_overlay_Hb7NHm": {
-      "type": "image-with-text-overlay",
-      "name": "Image with text overlay",
-      "settings": {
-        "full_width": true,
-        "allow_transparent_header": false,
-        "enable_parallax": false,
-        "image_size": "auto",
-        "image": "shopify://shop_images/SORAYA_1000_x_250_px.png",
-        "mobile_image": "shopify://shop_images/SORAYA_1000_x_250_px.png",
-        "mobile_text_position": "place-self-center text-center",
-        "desktop_text_position": "sm:place-self-center sm:text-center",
-        "text_color": "#c69b69",
-        "overlay_color": "#c69b69",
-        "overlay_opacity": 0
-      }
-    },
     "footer": {
       "type": "footer",
       "blocks": {
@@ -64,7 +47,6 @@
     }
   },
   "order": [
-    "image_with_text_overlay_Hb7NHm",
     "footer"
   ]
 }
