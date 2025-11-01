@@ -15,7 +15,8 @@
         "slide-1": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/SUBLIMEZ_VOTRE_PEAU_EN_10_MIN_000ca382-50f1-48c2-bcd4-14132e92d72b.png",
+            "image": "shopify://shop_images/SUBLIMEZ_VOTRE_PEAU_EN_10_MIN.webp",
+            "mobile_image": "shopify://shop_images/SUBLIMEZ_VOTRE_PEAU_EN_10_MIN.webp",
             "content_max_width": 780,
             "mobile_text_position": "place-self-center text-center",
             "desktop_text_position": "sm:place-self-center sm:text-center",
