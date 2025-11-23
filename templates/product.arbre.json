@@ -451,41 +451,49 @@
         "item_jtbzxh": {
           "type": "item",
           "settings": {
-            "title": "La lampe s’adapte-t-elle à toutes les bouteilles ?",
-            "content": "<p>Absolument ! La Botlamp dispose d’un embout à ventouse, ce qui lui permet de s’adapter parfaitement et en toute sécurité à toutes les bouteilles.</p>"
+            "title": "Comment fonctionne l'Arbre Illuminé?",
+            "content": "<p>Il suffit de toucher légèrement le tronc pour allumer ou éteindre la lumière. Vous pouvez l'utiliser sur piles (autonomie 3-6 mois) ou branché via le câble USB fourni.</p>"
+          }
+        },
+        "item_VEb9jb": {
+          "type": "item",
+          "settings": {
+            "title": "Est-ce difficile à installer ?",
+            "content": "<p>Pas du tout. Aucune installation requise : insérez les piles ou branchez le câble USB, modelez les branches selon vos goûts, et c'est prêt !</p>"
           }
         },
         "item_E9mThX": {
           "type": "item",
           "settings": {
-            "title": "La lampe Botlamp est-elle waterproof ?",
+            "title": "Puis-je vraiment modeler les branches comme je veux ?",
             "content": "<p>Oui, la Botlamp est totalement waterproof. Vous pouvez la laisser sur une table en extérieur, dans le jardin ou sur le balcon en été, sans aucune inquiétude.</p>"
           }
         },
         "item_JnzXcz": {
           "type": "item",
           "settings": {
-            "title": "Proposez-vous des ventes en gros ?",
-            "content": "<p>Oui, nous proposons des ventes en gros pour les professionnels, concept stores, boutiques de décoration, événements ou cadeaux d'entreprise. Si vous souhaitez distribuer nos lampes ou passer une commande en grande quantité, contactez nous à cette adresse email: contact@gamlight.fr</p>"
+            "title": "Quelle est l'autonomie des piles ?",
+            "content": "<p>Entre 3 et 6 mois selon votre utilisation. Vous pouvez aussi le brancher en permanence avec le câble USB inclus.</p>"
           }
         },
         "item_LcQmgf": {
           "type": "item",
           "settings": {
-            "title": "Satisfaction client & livraison",
-            "content": "<p>Votre satisfaction est notre priorité. C’est pourquoi nous offrons une garantie satisfait ou remboursé de 14 jours sur toutes les commandes. Contactez notre équipe via la page Contact si besoin.</p><p>Nous expédions dans toute l’Europe, avec des délais de livraison généralement compris entre 6 et 9 jours ouvrés selon votre localisation.</p>"
+            "title": "Est-ce un bon cadeau ?",
+            "content": "<p>Oui ! C'est le cadeau idéal pour Noël, anniversaires, pendaisons de crémaillère ou simplement pour faire plaisir. Son design unique surprend à chaque fois.</p>"
           }
         },
         "item_JHfF7j": {
           "type": "item",
           "settings": {
-            "title": "Comment puis-je vous contacter ?",
-            "content": "<p>Vous pouvez nous écrire à l’adresse suivante :<a><strong>contact@gamlight.fr</strong></a></p><p>Nous faisons de notre mieux pour vous répondre sous 48 heures.</p>"
+            "title": "Comment puis-je vous contacter et quelle est votre garantie?",
+            "content": "<p>Vous pouvez nous écrire à l’adresse suivante :<a><strong>contact@gamlight.fr</strong></a></p><p>Nous faisons de notre mieux pour vous répondre sous 48 heures.</p><p>Nous offrons une garantie satisfait ou remboursé de 30 jours. Si vous n'êtes pas entièrement satisfait, nous vous remboursons intégralement, sans conditions.</p>"
           }
         }
       },
       "block_order": [
         "item_jtbzxh",
+        "item_VEb9jb",
         "item_E9mThX",
         "item_JnzXcz",
         "item_LcQmgf",
