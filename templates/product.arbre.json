@@ -1,0 +1,634 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "image_with_text_overlay_ijagcU": {
+      "type": "image-with-text-overlay",
+      "name": "Image with text overlay",
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": false,
+        "enable_parallax": false,
+        "image_size": "auto",
+        "image": "shopify://shop_images/SUBLIMEZ_VOTRE_PEAU_EN_10_MIN.webp",
+        "mobile_image": "shopify://shop_images/SUBLIMEZ_VOTRE_PEAU_EN_10_MIN.webp",
+        "mobile_text_position": "place-self-center text-center",
+        "desktop_text_position": "sm:place-self-center sm:text-center",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 0
+      }
+    },
+    "logo_list_wEC7EC": {
+      "type": "logo-list",
+      "blocks": {
+        "logo_zUK37Y": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify://shop_images/elle-decoration-logo-png_seeklogo-469547.webp",
+            "logo_width": 120,
+            "link": ""
+          }
+        },
+        "logo_fwzAaR": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify://shop_images/designmag-logo.webp",
+            "logo_width": 250,
+            "link": ""
+          }
+        },
+        "logo_L8DybD": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify://shop_images/logo_artsmagazine.webp",
+            "logo_width": 120,
+            "link": ""
+          }
+        },
+        "logo_kTmBtW": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify://shop_images/ideat-logo.webp",
+            "logo_width": 120,
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "logo_zUK37Y",
+        "logo_fwzAaR",
+        "logo_L8DybD",
+        "logo_kTmBtW"
+      ],
+      "name": "Logo list",
+      "settings": {
+        "full_width": true,
+        "stack_mobile": true,
+        "title": "Ils parlent de nous",
+        "content": "",
+        "text_alignment": "center",
+        "items_per_row": 4,
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "logo_item_background": "",
+        "logo_item_border": ""
+      }
+    },
+    "rich_text_bDHhNm": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_dQ7zXX": {
+          "type": "heading",
+          "settings": {
+            "text": "Pourquoi chosir Botlamp ?",
+            "heading_tag": "h2",
+            "text_color": "",
+            "gradient": ""
+          }
+        }
+      },
+      "block_order": [
+        "heading_dQ7zXX"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "full_width": true,
+        "content_width": "small",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "image_with_text_overlay_69Vt4E": {
+      "type": "image-with-text-overlay",
+      "name": "Image with text overlay",
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": false,
+        "enable_parallax": false,
+        "image_size": "auto",
+        "image": "shopify://shop_images/dsvsdvds.webp",
+        "mobile_image": "shopify://shop_images/dsvsdvds.webp",
+        "mobile_text_position": "place-self-center text-center",
+        "desktop_text_position": "sm:place-self-center sm:text-center",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 0
+      }
+    },
+    "video_Y43hna": {
+      "type": "video",
+      "name": "Video",
+      "settings": {
+        "full_width": false,
+        "allow_transparent_header": false,
+        "autoplay": true,
+        "video_size": "auto",
+        "video": "shopify://files/videos/af68bc7f5f034c79bc257dd4293d75a3.HD-720p-4.5Mbps-55240699.mp4",
+        "external_video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 0
+      }
+    },
+    "multi_column_kFRB7E": {
+      "type": "multi-column",
+      "blocks": {
+        "item_FJttac": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/Avis_1_2.jpg",
+            "column_size": "3",
+            "title": "Julien .T",
+            "heading_tag": "h4",
+            "content": "<p>J'adore le concept, ça donne une seconde vie à mes bouteilles préférées. Simple et efficace.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_MKYcQN": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/ChatGPT-Image-7-mai-2025_-01_01_47.jpg",
+            "column_size": "3",
+            "title": "Daniel.S",
+            "heading_tag": "h4",
+            "content": "<p>Parfait pour une lumière d’ambiance sans encombrement. J’en achète une deuxième pour mon bureau.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_UPfHUG": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/Avis_1_4.jpg",
+            "column_size": "3",
+            "title": "Élodie .B",
+            "heading_tag": "h4",
+            "content": "<p>Acheté pour tester, maintenant j'en veux une dans chaque pièce. Le rendu est vraiment canon.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_3bDHQW": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/ChatGPT-Image-7-mai-2025_-00_48_34.jpg",
+            "column_size": "3",
+            "title": "Sarah.T",
+            "heading_tag": "h4",
+            "content": "<p>Incroyable! Elle a transformé une vieille bouteille en une lampe chaleureuse en quelques secondes.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_itaKxH": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/Avis_1_1.jpg",
+            "column_size": "3",
+            "title": "Océane.L",
+            "heading_tag": "h4",
+            "content": "<p>Belle lumière, sans câbles ni prise de tête. Magnifique sur ma table de dîner.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        }
+      },
+      "block_order": [
+        "item_FJttac",
+        "item_MKYcQN",
+        "item_UPfHUG",
+        "item_3bDHQW",
+        "item_itaKxH"
+      ],
+      "name": "Multi-column",
+      "settings": {
+        "full_width": true,
+        "stack_on_mobile": false,
+        "gap": "medium",
+        "text_alignment": "center",
+        "subheading": "",
+        "title": "Nos clients en parle le mieux",
+        "content": "",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "main": {
+      "type": "main-product",
+      "blocks": {
+        "title": {
+          "type": "title",
+          "settings": {
+            "heading_tag": "h2"
+          }
+        },
+        "liquid_jTzW4A": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n    <meta charset=\"UTF-8\">\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n    <title>Trustpilot Rating</title>\n    <style>\n        .container-trustpilot {\n            background-color: #e9f8fe;\n            border: 1px dashed #006400; /* Koyu yeşil border */\n            padding: 5px 5px;\n            display: flex;\n            align-items: center;\n            justify-content: center;\n            border-radius: 10px;\n        }\n        .container-trustpilot img {\n            margin: 0 10px;\n        }\n        .container-trustpilot .stars {\n            max-width: 80px; /* Increased size for the star image */\n        }\n        .container-trustpilot .logo {\n            max-width: 70px;\n        }\n        .container-trustpilot span {\n            margin: 0 5px;\n        }\n        .excellent {\n            color: #000;\n            font-size: 12px;\n        }\n        .rating-text {\n            color: #000;\n            font-size: 10px;\n        }\n    </style>\n</head>\n<body>\n    <div class=\"container-trustpilot\">\n        <span class=\"excellent\"><b>\"EXCELLENT\"</b></span>\n        <img class=\"stars\" src=\"https://cdn.shopify.com/s/files/1/0647/2148/6072/files/4.5-stars-trustpilot_2157d8d9-101e-46a2-a3fe-ac80f2fecf10.png?v=1688082792\" alt=\"4.7/5 Rating\">\n        <span class=\"rating-text\">noté 4.8/5 sur</span>\n        <img class=\"logo\" src=\"https://cdn.shopify.com/s/files/1/0647/2148/6072/files/Trustpilot_Logo__2022_.svg_2.png?v=1687091440\" alt=\"Trustpilot Logo\">\n    </div>\n</body>\n</html>"
+          }
+        },
+        "liquid_KVnbyb": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<ul style=\"list-style:none; padding:0; margin:0;\">\n  <li><span style=\"color:#c69b69;\">✔</span> Moments magiques : soirées & terrasses</li>\n  <li><span style=\"color:#c69b69;\">✔</span> Lumière modulable : ambiance parfaite</li>\n  <li><span style=\"color:#c69b69;\">✔</span> Sans fil : 100 % rechargeable par câble</li>\n  <li><span style=\"color:#c69b69;\">✔</span> Créatif & unique : pour toutes bouteilles</li>\n</ul>"
+          }
+        },
+        "image_3hmLMN": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/sdvsdgv.webp",
+            "alignment": "center",
+            "max_width": 500
+          }
+        },
+        "kaching_bundles_app_block_CtT3CN": {
+          "type": "shopify://apps/kaching-bundles/blocks/app-block/6c637362-a106-4a32-94ac-94dcfd68cdb8",
+          "settings": {
+            "product": "{{product}}"
+          }
+        },
+        "buy_buttons": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_payment_button": false,
+            "show_gift_card_recipient": false,
+            "atc_button_background": "#cc7e22",
+            "atc_button_text_color": "",
+            "payment_button_background": "",
+            "payment_button_text_color": ""
+          }
+        },
+        "liquid_adiPeJ": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n    <meta charset=\"UTF-8\">\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n    <title>Payment Options</title>\n    <style>\n        body.unique-body-Pay123 {\n            font-family: Arial, sans-serif;\n            display: flex;\n            justify-content: center;\n            align-items: center;\n            height: 100vh;\n            margin: 0;\n            background-color: #f9f9f9;\n        }\n        .unique-payment-container-Xyz456 {\n            text-align: center;\n        }\n        .unique-payment-options-Abc789 {\n            display: flex;\n            justify-content: center;\n            gap: 10px;\n        }\n        .unique-payment-options-Abc789 img {\n            width: 50px;\n            height: auto;\n        }\n    </style>\n</head>\n<body class=\"unique-body-Pay123\">\n    <div class=\"unique-payment-container-Xyz456\">\n        <div class=\"unique-payment-options-Abc789\">\n            <img src=\"https://www.svgrepo.com/show/14823/amex.svg\" alt=\"AMEX\">\n            <img src=\"https://www.svgrepo.com/show/508402/apple-pay.svg\" alt=\"Apple Pay\">\n            <img src=\"https://www.svgrepo.com/show/508703/mastercard.svg\" alt=\"MasterCard\">\n            <img src=\"https://www.svgrepo.com/show/508716/paypal.svg\" alt=\"PayPal\">\n            <img src=\"https://www.svgrepo.com/show/508690/google-pay.svg\" alt=\"Google Pay\">\n            <img src=\"https://www.svgrepo.com/show/508730/visa-classic.svg\" alt=\"VISA\">\n        </div>\n    </div>\n</body>\n</html>"
+          }
+        },
+        "image_G7hAaM": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/LIVRAISON_GRATUITE.webp",
+            "alignment": "center",
+            "max_width": 420
+          }
+        }
+      },
+      "block_order": [
+        "title",
+        "liquid_jTzW4A",
+        "liquid_KVnbyb",
+        "image_3hmLMN",
+        "kaching_bundles_app_block_CtT3CN",
+        "buy_buttons",
+        "liquid_adiPeJ",
+        "image_G7hAaM"
+      ],
+      "settings": {
+        "full_width": true,
+        "show_fixed_add_to_cart": true,
+        "desktop_media_width": 55,
+        "desktop_media_layout": "carousel_thumbnails_bottom",
+        "mobile_media_size": "expanded",
+        "mobile_carousel_control": "thumbnails",
+        "enable_video_autoplay": false,
+        "enable_video_looping": true,
+        "enable_image_zoom": true,
+        "max_image_zoom_level": 3,
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "input_background": "rgba(0,0,0,0)",
+        "input_text_color": ""
+      }
+    },
+    "tabs_EnhC9A": {
+      "type": "tabs",
+      "blocks": {
+        "tab_zmGkxx": {
+          "type": "tab",
+          "settings": {
+            "title": "COMMENT ÇA FONCTIONNE ?",
+            "content": "<ol><li><strong>Choisissez votre bouteille préférée</strong> : Sélectionnez votre bouteille favorite pour l’utiliser avec la lampe.</li><li><strong>Rechargez la lampe</strong> : Rechargez-la complètement avant la première utilisation.</li><li><strong>Installez la lampe</strong> : Insérez la lampe dans la bouteille et assurez-vous qu’elle soit bien stable.</li><li><strong>Profitez</strong> : Choisissez votre ambiance lumineuse et laissez les regards se tourner vers votre lampe !</li></ol>",
+            "page": ""
+          }
+        },
+        "tab_dMrtrb": {
+          "type": "tab",
+          "settings": {
+            "title": "QUE CONTIENT LE COLIS ?",
+            "content": "<ul><li>1x Lampe BOTLAMP sans fil pour bouteille</li><li>1x Câble USB-C</li><li>Guide d’installation</li></ul>",
+            "page": ""
+          }
+        },
+        "tab_xVR3iy": {
+          "type": "tab",
+          "settings": {
+            "title": "SPÉCIFICATIONS",
+            "content": "<ul><li>Dimensions : 10,5 x 13,15 cm</li><li>Matériaux : Fer & Aluminium</li><li>Éclairage : LED</li><li>Température de couleur : 3000K</li><li>Batterie : Lithium 2000 mAh</li><li>Autonomie : jusqu’à 20 heures en mode lumière faible</li><li>Tension d’entrée : DC 5V</li><li>Durée de vie : 50 000 heures+</li><li>Alimentation : 2,5W, 5V, 2A</li></ul>",
+            "page": ""
+          }
+        },
+        "tab_AAfWXP": {
+          "type": "tab",
+          "settings": {
+            "title": "DÉLAIS DE LIVRAISON",
+            "content": "<p>Notre délai de livraison moyen est compris entre 6 et 9 jours ouvrés.</p>",
+            "page": ""
+          }
+        }
+      },
+      "block_order": [
+        "tab_zmGkxx",
+        "tab_dMrtrb",
+        "tab_xVR3iy",
+        "tab_AAfWXP"
+      ],
+      "name": "Tabs",
+      "settings": {
+        "full_width": true,
+        "content_size": "medium",
+        "subheading": "",
+        "title": "",
+        "text_alignment": "center",
+        "first_tab_open": false,
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": ""
+      }
+    },
+    "multi_column_7REBYR": {
+      "type": "multi-column",
+      "blocks": {
+        "item_Gr4kWD": {
+          "type": "item",
+          "settings": {
+            "video": "shopify://files/videos/7c196d44cc0d4bd7bdacb343a2304c64.HD-1080p-4.8Mbps-57621214.mp4",
+            "column_size": "3",
+            "title": "",
+            "heading_tag": "h4",
+            "content": "",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_k7f4LW": {
+          "type": "item",
+          "settings": {
+            "video": "shopify://files/videos/2cf13757711c42cfaaaf2bcc423a4d9c.HD-1080p-4.8Mbps-57621230.mp4",
+            "column_size": "3",
+            "title": "",
+            "heading_tag": "h4",
+            "content": "",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_A96krX": {
+          "type": "item",
+          "settings": {
+            "video": "shopify://files/videos/7ab15a6e41084352ad6a5da6ddd688be.HD-1080p-7.2Mbps-57621391.mp4",
+            "column_size": "3",
+            "title": "",
+            "heading_tag": "h4",
+            "content": "",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        }
+      },
+      "block_order": [
+        "item_Gr4kWD",
+        "item_k7f4LW",
+        "item_A96krX"
+      ],
+      "name": "Multi-column",
+      "settings": {
+        "full_width": true,
+        "stack_on_mobile": false,
+        "gap": "medium",
+        "text_alignment": "center",
+        "subheading": "",
+        "title": "Comment ça fonctionne?",
+        "content": "",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "rich_text_eaTbxg": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_VLG6Wk": {
+          "type": "heading",
+          "settings": {
+            "text": "Notre BotLamp",
+            "heading_tag": "h1",
+            "text_color": "",
+            "gradient": ""
+          }
+        },
+        "subheading_6CHtXW": {
+          "type": "subheading",
+          "settings": {
+            "text": "vs les autres marques"
+          }
+        }
+      },
+      "block_order": [
+        "heading_VLG6Wk",
+        "subheading_6CHtXW"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "full_width": true,
+        "content_width": "small",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "image_with_text_overlay_TQyqxP": {
+      "type": "image-with-text-overlay",
+      "name": "Image with text overlay",
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": false,
+        "enable_parallax": false,
+        "image_size": "auto",
+        "image": "shopify://shop_images/Design_sans_titre.webp",
+        "mobile_image": "shopify://shop_images/Design_sans_titre.webp",
+        "mobile_text_position": "place-self-center text-center",
+        "desktop_text_position": "sm:place-self-center sm:text-center",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 0
+      }
+    },
+    "faq_CzUQwJ": {
+      "type": "faq",
+      "blocks": {
+        "item_jtbzxh": {
+          "type": "item",
+          "settings": {
+            "title": "La lampe s’adapte-t-elle à toutes les bouteilles ?",
+            "content": "<p>Absolument ! La Botlamp dispose d’un embout à ventouse, ce qui lui permet de s’adapter parfaitement et en toute sécurité à toutes les bouteilles.</p>"
+          }
+        },
+        "item_E9mThX": {
+          "type": "item",
+          "settings": {
+            "title": "La lampe Botlamp est-elle waterproof ?",
+            "content": "<p>Oui, la Botlamp est totalement waterproof. Vous pouvez la laisser sur une table en extérieur, dans le jardin ou sur le balcon en été, sans aucune inquiétude.</p>"
+          }
+        },
+        "item_JnzXcz": {
+          "type": "item",
+          "settings": {
+            "title": "Proposez-vous des ventes en gros ?",
+            "content": "<p>Oui, nous proposons des ventes en gros pour les professionnels, concept stores, boutiques de décoration, événements ou cadeaux d'entreprise. Si vous souhaitez distribuer nos lampes ou passer une commande en grande quantité, contactez nous à cette adresse email: contact@gamlight.fr</p>"
+          }
+        },
+        "item_LcQmgf": {
+          "type": "item",
+          "settings": {
+            "title": "Satisfaction client & livraison",
+            "content": "<p>Votre satisfaction est notre priorité. C’est pourquoi nous offrons une garantie satisfait ou remboursé de 14 jours sur toutes les commandes. Contactez notre équipe via la page Contact si besoin.</p><p>Nous expédions dans toute l’Europe, avec des délais de livraison généralement compris entre 6 et 9 jours ouvrés selon votre localisation.</p>"
+          }
+        },
+        "item_JHfF7j": {
+          "type": "item",
+          "settings": {
+            "title": "Comment puis-je vous contacter ?",
+            "content": "<p>Vous pouvez nous écrire à l’adresse suivante :<a><strong>contact@gamlight.fr</strong></a></p><p>Nous faisons de notre mieux pour vous répondre sous 48 heures.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "item_jtbzxh",
+        "item_E9mThX",
+        "item_JnzXcz",
+        "item_LcQmgf",
+        "item_JHfF7j"
+      ],
+      "name": "FAQ",
+      "settings": {
+        "full_width": true,
+        "subheading": "",
+        "title": "Vos Questions",
+        "content": "",
+        "team_avatar_width": 160,
+        "support_hours": "",
+        "answer_time": "",
+        "button_text": "",
+        "button_url": "",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "button_background": "",
+        "button_text_color": "",
+        "accordion_background": "",
+        "accordion_text_color": ""
+      }
+    },
+    "1761862827c38f1dfb": {
+      "type": "apps",
+      "blocks": {
+        "loox_reviews_loox_dynamic_section_6VTyiV": {
+          "type": "shopify://apps/loox-reviews/blocks/loox-dynamic-section/5c3b337f-fd14-4df5-b1d6-80ec13e6e28e",
+          "settings": {
+            "only_photos": false,
+            "aggregated": false,
+            "limit": 7,
+            "hide_thumbnails": false,
+            "maxwidth": 1080,
+            "is_sample": true
+          }
+        }
+      },
+      "block_order": [
+        "loox_reviews_loox_dynamic_section_6VTyiV"
+      ],
+      "settings": {
+        "full_width": true,
+        "remove_vertical_spacing": false,
+        "remove_horizontal_spacing": false,
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "17618628306451593d": {
+      "type": "apps",
+      "blocks": {
+        "loox_reviews_loox_dynamic_section_8m4Fwa": {
+          "type": "shopify://apps/loox-reviews/blocks/loox-dynamic-section/5c3b337f-fd14-4df5-b1d6-80ec13e6e28e",
+          "settings": {
+            "only_photos": false,
+            "aggregated": false,
+            "limit": 20,
+            "hide_thumbnails": false,
+            "maxwidth": 1080,
+            "is_sample": true
+          }
+        }
+      },
+      "block_order": [
+        "loox_reviews_loox_dynamic_section_8m4Fwa"
+      ],
+      "settings": {
+        "full_width": true,
+        "remove_vertical_spacing": false,
+        "remove_horizontal_spacing": false,
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    }
+  },
+  "order": [
+    "image_with_text_overlay_ijagcU",
+    "logo_list_wEC7EC",
+    "rich_text_bDHhNm",
+    "image_with_text_overlay_69Vt4E",
+    "video_Y43hna",
+    "multi_column_kFRB7E",
+    "main",
+    "tabs_EnhC9A",
+    "multi_column_7REBYR",
+    "rich_text_eaTbxg",
+    "image_with_text_overlay_TQyqxP",
+    "faq_CzUQwJ",
+    "1761862827c38f1dfb",
+    "17618628306451593d"
+  ]
+}
