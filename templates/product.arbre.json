@@ -128,21 +128,6 @@
         "overlay_opacity": 0
       }
     },
-    "video_Y43hna": {
-      "type": "video",
-      "name": "Video",
-      "settings": {
-        "full_width": false,
-        "allow_transparent_header": false,
-        "autoplay": true,
-        "video_size": "auto",
-        "video": "shopify://files/videos/af68bc7f5f034c79bc257dd4293d75a3.HD-720p-4.5Mbps-55240699.mp4",
-        "external_video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
-        "text_color": "#ffffff",
-        "overlay_color": "#000000",
-        "overlay_opacity": 0
-      }
-    },
     "multi_column_kFRB7E": {
       "type": "multi-column",
       "blocks": {
@@ -620,7 +605,6 @@
     "logo_list_wEC7EC",
     "rich_text_bDHhNm",
     "image_with_text_overlay_69Vt4E",
-    "video_Y43hna",
     "multi_column_kFRB7E",
     "main",
     "tabs_EnhC9A",
