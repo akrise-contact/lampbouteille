@@ -15,8 +15,8 @@
         "slide-1": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/SUBLIMEZ_VOTRE_PEAU_EN_10_MIN.webp",
-            "mobile_image": "shopify://shop_images/SUBLIMEZ_VOTRE_PEAU_EN_10_MIN.webp",
+            "image": "shopify://shop_images/gf_ndfgh.png",
+            "mobile_image": "shopify://shop_images/gf_ndfgh.png",
             "content_max_width": 780,
             "mobile_text_position": "place-self-center text-center",
             "desktop_text_position": "sm:place-self-center sm:text-center",
@@ -54,8 +54,9 @@
     "collection_list_zaEhJH": {
       "type": "collection-list",
       "blocks": {
-        "collection_6dJNxe": {
+        "collection_tcBhbH": {
           "type": "collection",
+          "disabled": true,
           "settings": {
             "collection": "",
             "image": "shopify://shop_images/3_05a2d3cd-0127-4ac1-8fb8-32cd8d5a0553.webp",
@@ -68,10 +69,26 @@
             "overlay_color": "#000000",
             "overlay_opacity": 37
           }
+        },
+        "collection_zVfTb6": {
+          "type": "collection",
+          "settings": {
+            "collection": "",
+            "image": "shopify://shop_images/IMG_3429.MOV_V2_480x480_aa204da5-6bad-4229-981e-b6e72cc3c4ec.gif",
+            "subheading": "",
+            "title": "Arbre illuminé",
+            "url": "shopify://products/arbre-illumine",
+            "heading_tag": "h2",
+            "text_position": "place-self-center text-center",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 12
+          }
         }
       },
       "block_order": [
-        "collection_6dJNxe"
+        "collection_tcBhbH",
+        "collection_zVfTb6"
       ],
       "name": "Collection list",
       "settings": {
@@ -81,7 +98,7 @@
         "collections_per_row": 3,
         "show_progress_bar": false,
         "subheading": "",
-        "title": "Découvrez BotLamp",
+        "title": "Découvrez notre Arbre Illuminé",
         "content": "",
         "link_url": "",
         "link_text": "",
