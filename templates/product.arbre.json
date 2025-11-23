@@ -258,7 +258,7 @@
           "settings": {
             "show_payment_button": false,
             "show_gift_card_recipient": false,
-            "atc_button_background": "#cc7e22",
+            "atc_button_background": "#00b67a",
             "atc_button_text_color": "",
             "payment_button_background": "",
             "payment_button_text_color": ""
