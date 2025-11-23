@@ -361,37 +361,63 @@
         "item_Gr4kWD": {
           "type": "item",
           "settings": {
-            "video": "shopify://files/videos/7c196d44cc0d4bd7bdacb343a2304c64.HD-1080p-4.8Mbps-57621214.mp4",
+            "image": "shopify://shop_images/ezgif.com-crop_11.gif",
             "column_size": "3",
-            "title": "",
-            "heading_tag": "h4",
-            "content": "",
+            "title": "Apportez une touche magique",
+            "heading_tag": "h3",
+            "content": "<p>Transformez chaque pièce de votre intérieur en un véritable paysage féérique avec notre arbre illuminé – une lampe artisanale conçue en forme d’arbre, qui apporte à votre espace <strong>une touche de sérénité et de douceur</strong>.</p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
           }
         },
-        "item_k7f4LW": {
+        "item_y66ek8": {
           "type": "item",
           "settings": {
-            "video": "shopify://files/videos/2cf13757711c42cfaaaf2bcc423a4d9c.HD-1080p-4.8Mbps-57621230.mp4",
+            "image": "shopify://shop_images/IMG_1320-ezgif.com-crop.gif",
             "column_size": "3",
-            "title": "",
-            "heading_tag": "h4",
-            "content": "",
+            "title": "Effet relaxant sur le corps et l’esprit.",
+            "heading_tag": "h3",
+            "content": "<p>C'est une véritable source de <strong>détente et de bien-être</strong>. Son design unique et sa lumière douce et chaleureuse créent une atmosphère apaisante. Allumez-le, détendez-vous et ressentez comment cet arbre lumineux <strong>réduit votre niveau de stress</strong>.</p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
           }
         },
-        "item_A96krX": {
+        "item_DpLfkA": {
           "type": "item",
           "settings": {
-            "video": "shopify://files/videos/7ab15a6e41084352ad6a5da6ddd688be.HD-1080p-7.2Mbps-57621391.mp4",
+            "image": "shopify://shop_images/Unbenannt.jpgjk_480x480_2a78037d-25d7-4730-9611-2e07fa6c8b07.jpg",
             "column_size": "3",
-            "title": "",
-            "heading_tag": "h4",
-            "content": "",
+            "title": "Polyvalent & longue autonomie",
+            "heading_tag": "h3",
+            "content": "<p>Grâce à sa flexibilité et à ses multiples possibilités d’utilisation, il peut être placé dans <strong>différentes pièces de la maison</strong> : chambre, salle à manger, salon, cuisine ou salle de bain. L’autonomie des piles est de <strong>3 à 6 mois</strong> (selon l’utilisation). Grâce au <strong>câble USB fourni</strong>, l’arbre peut également être utilisé sur secteur. (Alternativement, il fonctionne aussi avec des piles.)</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_XLWbqD": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/IMG_3429.MOV_V2_480x480_aa204da5-6bad-4229-981e-b6e72cc3c4ec.gif",
+            "column_size": "3",
+            "title": "Créativité sans limites",
+            "heading_tag": "h3",
+            "content": "<p>Façonnez les branches selon vos envies et pliez-les à votre goût. Cet espace de liberté créative vous permet de <strong>modeler votre Lampe et ses 108 mini LED</strong> selon vos <strong>idées et vos humeurs</strong>.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_N9GCM9": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/assets_task_01k76z4pc8f8tahrjcch1k37tp_1760096942_img_0_0f1e30a4-b40d-4a75-b138-44fe1572fb91.webp",
+            "column_size": "3",
+            "title": "Un cadeau beau et unique",
+            "heading_tag": "h3",
+            "content": "<p>Que ce soit pour <strong>Noël</strong>, un <strong>anniversaire</strong>, un <strong>anniversaire de mariage</strong> ou simplement pour faire plaisir cette <strong>Lampe</strong> est le <strong>cadeau parfait pour toutes les occasions</strong>.</p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -400,8 +426,10 @@
       },
       "block_order": [
         "item_Gr4kWD",
-        "item_k7f4LW",
-        "item_A96krX"
+        "item_y66ek8",
+        "item_DpLfkA",
+        "item_XLWbqD",
+        "item_N9GCM9"
       ],
       "name": "Multi-column",
       "settings": {
@@ -410,61 +438,11 @@
         "gap": "medium",
         "text_alignment": "center",
         "subheading": "",
-        "title": "Comment ça fonctionne?",
+        "title": "",
         "content": "",
         "background": "",
         "background_gradient": "",
         "text_color": ""
-      }
-    },
-    "rich_text_eaTbxg": {
-      "type": "rich-text",
-      "blocks": {
-        "heading_VLG6Wk": {
-          "type": "heading",
-          "settings": {
-            "text": "Notre BotLamp",
-            "heading_tag": "h1",
-            "text_color": "",
-            "gradient": ""
-          }
-        },
-        "subheading_6CHtXW": {
-          "type": "subheading",
-          "settings": {
-            "text": "vs les autres marques"
-          }
-        }
-      },
-      "block_order": [
-        "heading_VLG6Wk",
-        "subheading_6CHtXW"
-      ],
-      "name": "Rich text",
-      "settings": {
-        "full_width": true,
-        "content_width": "small",
-        "text_position": "center",
-        "background": "",
-        "background_gradient": "",
-        "text_color": ""
-      }
-    },
-    "image_with_text_overlay_TQyqxP": {
-      "type": "image-with-text-overlay",
-      "name": "Image with text overlay",
-      "settings": {
-        "full_width": true,
-        "allow_transparent_header": false,
-        "enable_parallax": false,
-        "image_size": "auto",
-        "image": "shopify://shop_images/Design_sans_titre.webp",
-        "mobile_image": "shopify://shop_images/Design_sans_titre.webp",
-        "mobile_text_position": "place-self-center text-center",
-        "desktop_text_position": "sm:place-self-center sm:text-center",
-        "text_color": "#ffffff",
-        "overlay_color": "#000000",
-        "overlay_opacity": 0
       }
     },
     "faq_CzUQwJ": {
@@ -600,8 +578,6 @@
     "main",
     "tabs_EnhC9A",
     "multi_column_7REBYR",
-    "rich_text_eaTbxg",
-    "image_with_text_overlay_TQyqxP",
     "faq_CzUQwJ",
     "1761862827c38f1dfb",
     "17618628306451593d"
