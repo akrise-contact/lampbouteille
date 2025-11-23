@@ -313,7 +313,7 @@
         "tab_xVR3iy": {
           "type": "tab",
           "settings": {
-            "title": "DÉTAILS",
+            "title": "Détails",
             "content": "<p><strong>Hauteur :</strong>50 cm<br/><br/><strong>Tension :</strong>4,5 V<br/><br/><strong>Alimentation :</strong>Piles ou câble USB fourni<br/><br/><strong>Source lumineuse :</strong>Composée de 108 petites LED<br/><br/><strong>Interrupteur : </strong>Fonction tactile </p>",
             "page": ""
           }
@@ -321,15 +321,24 @@
         "tab_AAfWXP": {
           "type": "tab",
           "settings": {
-            "title": "DÉLAIS DE LIVRAISON",
+            "title": "Délais de livraison",
             "content": "<p>Notre délai de livraison moyen est compris entre 6 et 9 jours ouvrés.</p>",
+            "page": ""
+          }
+        },
+        "tab_4kiAGP": {
+          "type": "tab",
+          "settings": {
+            "title": "Satisfait ou remboursé",
+            "content": "<p>Chez GamLight, votre satisfaction est notre premier engagement. Tous nos produits sont assortis d'une garantie de remboursement de 30 jours. Nous ferons tout ce qui est en notre pouvoir pour que votre expérience avec<strong> </strong>GamLight soit positive !<br/><br/><br/></p>",
             "page": ""
           }
         }
       },
       "block_order": [
         "tab_xVR3iy",
-        "tab_AAfWXP"
+        "tab_AAfWXP",
+        "tab_4kiAGP"
       ],
       "name": "Tabs",
       "settings": {
