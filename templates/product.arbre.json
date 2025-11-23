@@ -310,27 +310,11 @@
     "tabs_EnhC9A": {
       "type": "tabs",
       "blocks": {
-        "tab_zmGkxx": {
-          "type": "tab",
-          "settings": {
-            "title": "COMMENT ÇA FONCTIONNE ?",
-            "content": "<ol><li><strong>Choisissez votre bouteille préférée</strong> : Sélectionnez votre bouteille favorite pour l’utiliser avec la lampe.</li><li><strong>Rechargez la lampe</strong> : Rechargez-la complètement avant la première utilisation.</li><li><strong>Installez la lampe</strong> : Insérez la lampe dans la bouteille et assurez-vous qu’elle soit bien stable.</li><li><strong>Profitez</strong> : Choisissez votre ambiance lumineuse et laissez les regards se tourner vers votre lampe !</li></ol>",
-            "page": ""
-          }
-        },
-        "tab_dMrtrb": {
-          "type": "tab",
-          "settings": {
-            "title": "QUE CONTIENT LE COLIS ?",
-            "content": "<ul><li>1x Lampe BOTLAMP sans fil pour bouteille</li><li>1x Câble USB-C</li><li>Guide d’installation</li></ul>",
-            "page": ""
-          }
-        },
         "tab_xVR3iy": {
           "type": "tab",
           "settings": {
-            "title": "SPÉCIFICATIONS",
-            "content": "<ul><li>Dimensions : 10,5 x 13,15 cm</li><li>Matériaux : Fer & Aluminium</li><li>Éclairage : LED</li><li>Température de couleur : 3000K</li><li>Batterie : Lithium 2000 mAh</li><li>Autonomie : jusqu’à 20 heures en mode lumière faible</li><li>Tension d’entrée : DC 5V</li><li>Durée de vie : 50 000 heures+</li><li>Alimentation : 2,5W, 5V, 2A</li></ul>",
+            "title": "DÉTAILS",
+            "content": "<p><strong>Hauteur :</strong>50 cm<br/><br/><strong>Tension :</strong>4,5 V<br/><br/><strong>Alimentation :</strong>Piles ou câble USB fourni<br/><br/><strong>Source lumineuse :</strong>Composée de 108 petites LED<br/><br/><strong>Interrupteur : </strong>Fonction tactile </p>",
             "page": ""
           }
         },
@@ -344,8 +328,6 @@
         }
       },
       "block_order": [
-        "tab_zmGkxx",
-        "tab_dMrtrb",
         "tab_xVR3iy",
         "tab_AAfWXP"
       ],
