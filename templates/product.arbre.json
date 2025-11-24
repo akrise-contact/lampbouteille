@@ -247,7 +247,7 @@
             "max_width": 500
           }
         },
-        "kaching_bundles_app_block_CtT3CN": {
+        "kaching_bundles_app_block_HUyEre": {
           "type": "shopify://apps/kaching-bundles/blocks/app-block/6c637362-a106-4a32-94ac-94dcfd68cdb8",
           "settings": {
             "product": "{{product}}"
@@ -284,7 +284,7 @@
         "liquid_jTzW4A",
         "liquid_KVnbyb",
         "image_3hmLMN",
-        "kaching_bundles_app_block_CtT3CN",
+        "kaching_bundles_app_block_HUyEre",
         "liquid_ETLkWm",
         "buy_buttons",
         "image_G7hAaM"
