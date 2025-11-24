@@ -314,7 +314,7 @@
           "type": "tab",
           "settings": {
             "title": "Détails",
-            "content": "<p><strong>Hauteur :</strong>50 cm<br/><br/><strong>Tension :</strong>4,5 V<br/><br/><strong>Alimentation :</strong>Piles ou câble USB fourni<br/><br/><strong>Source lumineuse :</strong>Composée de 108 petites LED<br/><br/><strong>Interrupteur : </strong>Fonction tactile </p>",
+            "content": "<p><strong>Hauteur : </strong>50 cm<br/><br/><strong>Tension : </strong>4,5 V<br/><br/><strong>Alimentation : </strong>Piles ou câble USB fourni<br/><br/><strong>Source lumineuse : </strong>Composée de 108 petites LED<br/><br/><strong>Interrupteur :  </strong>Fonction tactile </p>",
             "page": ""
           }
         },
