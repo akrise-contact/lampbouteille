@@ -236,7 +236,7 @@
         "liquid_KVnbyb": {
           "type": "liquid",
           "settings": {
-            "liquid": "<ul style=\"list-style:none; padding:0; margin:0;\">\n  <li><span style=\"color:#c69b69;\">✔</span> Lumière apaisante & modulable</li>\n  <li><span style=\"color:#c69b69;\">✔</span> Branches 100% flexibles à sculpter</li>\n  <li><span style=\"color:#c69b69;\">✔</span> Le cadeau parfait pour toutes occasions</li>\n  <li><span style=\"color:#c69b69;\">✔</span> Satisfait ou remboursé 30 jours</li>\n</ul>"
+            "liquid": "<ul style=\"list-style:none; padding:0; margin:0;\">\n  {% if shop.locale == 'fr' %}\n    <li><span style=\"color:#c69b69;\">✔</span> Lumière apaisante & modulable</li>\n    <li><span style=\"color:#c69b69;\">✔</span> Branches 100% flexibles à sculpter</li>\n    <li><span style=\"color:#c69b69;\">✔</span> Le cadeau parfait pour toutes occasions</li>\n    <li><span style=\"color:#c69b69;\">✔</span> Satisfait ou remboursé 30 jours</li>\n  {% elsif shop.locale == 'it' %}\n    <li><span style=\"color:#c69b69;\">✔</span> Luce rilassante e modulabile</li>\n    <li><span style=\"color:#c69b69;\">✔</span> Rami 100% flessibili da modellare</li>\n    <li><span style=\"color:#c69b69;\">✔</span> Il regalo perfetto per ogni occasione</li>\n    <li><span style=\"color:#c69b69;\">✔</span> Soddisfatto o rimborsato 30 giorni</li>\n  {% endif %}\n</ul>"
           }
         },
         "image_3hmLMN": {
