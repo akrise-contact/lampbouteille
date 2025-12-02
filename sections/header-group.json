@@ -17,14 +17,14 @@
         "message": {
           "type": "message",
           "settings": {
-            "text": "Black Friday - Jusqu'à -50%",
+            "text": "Offre NOËL - Jusqu'à -50%",
             "url": ""
           }
         },
         "message_Jb36Nn": {
           "type": "message",
           "settings": {
-            "text": "Livraison gratuitement",
+            "text": "Livraison gratuite",
             "url": ""
           }
         }
