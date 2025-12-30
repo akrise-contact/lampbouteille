@@ -242,7 +242,7 @@
         "image_3hmLMN": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/frgam.png",
+            "image": "shopify://shop_images/frgam1.png",
             "alignment": "center",
             "max_width": 500
           }

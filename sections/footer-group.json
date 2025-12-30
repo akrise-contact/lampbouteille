@@ -14,6 +14,14 @@
     "footer": {
       "type": "footer",
       "blocks": {
+        "text_fhj6Pj": {
+          "type": "text",
+          "settings": {
+            "title": "Service Client",
+            "content": "<p>Par mail : contact@gamlight.fr</p><p>Réponse sous 48h, 7 jours sur 7.</p>",
+            "enable_follow_on_shop": false
+          }
+        },
         "links_rJy4j3": {
           "type": "links",
           "settings": {
@@ -32,6 +40,7 @@
         }
       },
       "block_order": [
+        "text_fhj6Pj",
         "links_rJy4j3",
         "links"
       ],
